@@ -17,6 +17,4 @@ import java.util.UUID;
 public class Customer {
     private UUID id;
     private String name;
-    private String testStringCsus;
-    private String testString2Csus;
-}
+    }
