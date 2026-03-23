@@ -47,4 +47,5 @@ public class Beer {
 
     @UpdateTimestamp
     private Timestamp lastModifiedDate;
+    private String testString;
 }
